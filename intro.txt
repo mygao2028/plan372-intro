@@ -1,3 +1,5 @@
 This is the beginning of PLAN372. 
 
 Hello! 
+
+Today is a new day. 
